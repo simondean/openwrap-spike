@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWrapSpike", "OpenWrapSpike\OpenWrapSpike.csproj", "{1E6C81B2-6322-4C1B-B2A6-6DE1B3273AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{8448432A-C584-4001-94BC-59BDB2B35457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6C81B2-6322-4C1B-B2A6-6DE1B3273AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6C81B2-6322-4C1B-B2A6-6DE1B3273AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6C81B2-6322-4C1B-B2A6-6DE1B3273AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6C81B2-6322-4C1B-B2A6-6DE1B3273AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8448432A-C584-4001-94BC-59BDB2B35457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8448432A-C584-4001-94BC-59BDB2B35457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8448432A-C584-4001-94BC-59BDB2B35457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8448432A-C584-4001-94BC-59BDB2B35457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

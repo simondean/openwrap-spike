@@ -1,2 +1,3 @@
 ﻿name: openwrap-spike
 depends: openwrap anchored content
+depends: NUnit
